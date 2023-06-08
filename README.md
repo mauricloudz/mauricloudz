@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mauricloudz (Mauricio Poblete)
 - 👀 I’m interested in JS Programming, building websites and Front End development.
-- 🌱 I’m currently learning Full Stack at Desafio Latam
-- 💞️ I’m looking to collaborate on Front End projects.
+- 🌱 I’m currently studying Informatic Engineering at DUOC UC.
+- 💞️ I’m looking to collaborate on Front End and UX/UI projects.
 - 📫 How to reach me: mpoblete.s3@gmail.com
 
 <!---
