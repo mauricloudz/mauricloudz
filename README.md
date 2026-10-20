@@ -53,6 +53,12 @@ Inventario de activos TI con un agente que reporta el estado de cada equipo. Doc
 </tr>
 </table>
 
+### 🔭 Próximo proyecto
+
+**RedCycle** · <sub>🗺️ En diseño</sub>
+
+Un mapa de los puntos de reciclaje cercanos, al estilo de las apps de transporte: qué materiales recibe cada punto, sus horarios y cómo llegar.
+
 ### 🤖 Cómo trabajo con IA
 
 - **Documentación primero.** Requisitos, arquitectura y decisiones técnicas por escrito antes de escribir código.
