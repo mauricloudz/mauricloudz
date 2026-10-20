@@ -77,4 +77,4 @@ Inventario de activos TI con un agente que reporta el estado de cada equipo. Doc
 ¿Tienes un proceso que quieres automatizar o una idea que quieres construir?
 
 [![Email](https://img.shields.io/badge/mpoblete.s3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mpoblete.s3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio_Poblete-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-poblete-saez-b089569a)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2)](https://www.linkedin.com/in/mauricio-poblete-saez-b089569a)
