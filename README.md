@@ -14,7 +14,7 @@
 
 - 🧩 **Apps web y móviles** completas: frontend, backend, base de datos, notificaciones y despliegue.
 - 🚀 **Landing pages y tiendas online** rápidas, bien posicionadas y pensadas para convertir visitas en clientes.
-- 🤖 **Automatización de procesos** con bots RPA y agentes de IA que eliminan el trabajo repetitivo.
+- 🤖 **Automatización de procesos** con scripts y agentes de IA que eliminan el trabajo repetitivo.
 
 ### ⭐ Proyectos destacados
 
@@ -32,12 +32,12 @@ Plataforma móvil para que la comunidad universitaria no se pierda ningún event
 </td>
 <td width="33%" valign="top">
 
-**[Bot RPA](https://github.com/mauricloudz/rpa-selenium-demoqa)**<br/>
+**[Landing Remakes](https://github.com/mauricloudz/landing-remakes)**<br/>
 <sub>🟢 Código abierto</sub>
 
-Automatiza formularios, extrae tablas web a MySQL y valida cada resultado con evidencia automática.
+Dos landings que hice como estudiante, reconstruidas con Astro y Tailwind. En Lighthouse móvil pasaron a 100 en las cuatro categorías y la carga bajó de 16,2 s a 0,9 s.
 
-<sub>Python · Selenium · MySQL · CI</sub>
+<sub>Astro · TypeScript · Tailwind CSS · GitHub Actions</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@ Un mapa de los puntos de reciclaje cercanos, al estilo de las apps de transporte
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ### 📫 Contacto
